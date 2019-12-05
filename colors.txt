@@ -6,3 +6,4 @@ purple
 yellow
 pink
 white
+orange
