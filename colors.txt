@@ -8,3 +8,4 @@ pink
 white
 orange
 Cayan
+azure
