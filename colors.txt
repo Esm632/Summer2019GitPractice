@@ -8,6 +8,6 @@ pink
 white
 orange
 Cyan
-cyber yellow
-gold
-fusha
+12345
+rose
+green
