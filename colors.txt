@@ -7,4 +7,5 @@ yellow
 pink
 white
 orange
-Cayan
+Cyan
+12345
