@@ -10,3 +10,4 @@ orange
 Cyan
 cyber yellow
 gold
+fusha
