@@ -8,4 +8,5 @@ pink
 white
 orange
 Cyan
-12345
+cyber yellow
+gold
